@@ -331,7 +331,7 @@ Built For Digital Heroes
 
 </a>
 
-
+<p>Developed by: <strong>Simran Panwar</strong> | Email <strong>simmipanwar757@gmail.com</strong></p>
 
 
 

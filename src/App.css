@@ -216,3 +216,10 @@ border-radius:18px;
 .footer a:hover{
 background:rgb(0, 110, 255);
 }
+.footer p{
+margin-top:40px;
+
+}
+.dark .footer p{
+color:rgb(255, 255, 255);
+}
